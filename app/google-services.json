@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "502429182987",
+    "project_id": "sugarsmart-ab4cd",
+    "storage_bucket": "sugarsmart-ab4cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502429182987:android:d9354c51d099af4a9f6b0e",
+        "android_client_info": {
+          "package_name": "com.example.sugarsmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTXzCC9dsSmU8G69gOqMKn47GNg7X6ZF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502429182987:android:d54d13369461be339f6b0e",
+        "android_client_info": {
+          "package_name": "com.example.sugarsmartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTXzCC9dsSmU8G69gOqMKn47GNg7X6ZF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502429182987:android:e4e853afea6e23689f6b0e",
+        "android_client_info": {
+          "package_name": "com.example.sugarsmartapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTXzCC9dsSmU8G69gOqMKn47GNg7X6ZF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
